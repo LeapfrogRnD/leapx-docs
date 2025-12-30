@@ -20,15 +20,15 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://leapx.leapfrog.dev',
+  url: 'https://LeapFrogRnd.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/LeapX/',
 
   // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
   organizationName: 'LeapFrogRnd', // Usually your GitHub org/user name.
   projectName: 'LeapX', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
 
